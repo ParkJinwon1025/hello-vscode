@@ -1,5 +1,4 @@
 # hello-vscode
-hello-vscode
 
 ## 1. 각 프로젝트에 맞는 확장 설치하기
 ## 2. 언어는 영어로 설정하기
